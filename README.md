@@ -20,7 +20,7 @@ FORK the repository to your local machine (if you haven't already). I do recomme
 <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">HINT</a>
 
 <h4>Install all necessary packages</h4>
-```bash
+``` bash
 $ pip install -r requirements.txt
 ```
 
